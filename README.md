@@ -1,5 +1,16 @@
-# 💫 About Me:
-I’m currently working on full-stack web applications with secure authentication, REST APIs, PostgreSQL, and ML-based spam detection systems. I’m looking to collaborate on open-source projects in web development, AI/ML, fintech applications, and beginner-friendly system design projects, while also seeking help with system design, production-level backend architecture, and contributing effectively to large open-source codebases.<br><br>I’m currently learning advanced Data Structures & Algorithms, Machine Learning, and scalable backend development practices. You can ask me about Python, SQL, full-stack development, spam detection models, FPGA fault detection (LBIST), and IEEE student activities.<br><br>Fun fact: I’m an Electronics & Communication Engineering student who enjoys building software systems just as much as designing hardware logic.
+### 👨‍💻 About Me
+
+I'm a software developer passionate about building **full-stack applications, backend systems, and AI/ML solutions**.
+
+- 🔭 Building full-stack applications with **React, Node.js, REST APIs & PostgreSQL**
+- 🤖 Exploring **AI/ML, NLP & intelligent applications**
+- 🧠 Practicing **DSA, system design & scalable backend architecture**
+- 🌱 Learning **production-level software engineering and distributed systems**
+- 🤝 Open to collaborating on **open-source, web development, AI/ML & fintech projects**
+- 💬 Ask me about **Python, SQL, JavaScript, React, Node.js, PostgreSQL, ML & DSA**
+- 🚀 Interested in **Backend Engineering | Full Stack | AI/ML | System Design**
+
+> Started with hardware. Found my passion in software. 💻
 
 
 ## 🌐 Socials:

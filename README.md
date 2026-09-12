@@ -19,3 +19,6 @@ I’m currently working on full-stack web applications with secure authenticatio
 [![](https://visitcount.itsvg.in/api?id=soujanyabhirade&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧩 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/soujanyabhirade?theme=dark)](https://leetcode.com/u/soujanyabhirade/)

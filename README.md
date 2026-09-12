@@ -19,6 +19,12 @@ I’m currently working on full-stack web applications with secure authenticatio
 [![](https://visitcount.itsvg.in/api?id=soujanyabhirade&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🧩 LeetCode
+## ♡ LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Soujanya_bhirade?theme=dark&ext=heatmap)](https://leetcode.com/u/Soujanya_bhirade/)
+<p align="center">
+
+<a href="https://leetcode.com/u/Soujanya_bhirade/">
+<img src="https://leetcard.jacoblin.cool/Soujanya_bhirade?theme=unicorn&font=Baloo_2" width="500"/>
+</a>
+
+</p>

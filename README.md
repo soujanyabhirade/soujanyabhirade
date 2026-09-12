@@ -21,10 +21,8 @@ I’m currently working on full-stack web applications with secure authenticatio
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## ✦ LeetCode Journey
 
-<p align="center">
-
-<a href="https://leetcode.com/u/Soujanya_bhirade/">
-<img src="https://leetcard.jacoblin.cool/Soujanya_bhirade?colors=17151f,211d2b,f5f0ff,ffffff,c8a2ff,b388ff,9b72cf,e0c3fc&font=Baloo_2" width="500"/>
-</a>
-
+<p align="left">
+  <a href="https://leetcode.com/u/Soujanya_bhirade/">
+    <img src="https://leetcard.jacoblin.cool/Soujanya_bhirade?theme=dark&font=Baloo_2" width="500"/>
+  </a>
 </p>
